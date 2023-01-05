@@ -1,3 +1,5 @@
+<img align="right" src="https://user-images.githubusercontent.com/84287454/210780304-90aa4864-4188-46d3-900e-72f2a3d716c5.png" alt="follow me on instagram" width="30%">
+
 # QR code com python
 
 Para criar o QR code é usada a biblioteca **qrcode**.
@@ -8,6 +10,6 @@ De maneira simplificada para gerar um QRCode basta apenas usar o comando ``qrcod
 
 Caso você deseje criar diversos QRCodes de diversos textos/links diferentes, isso seria facilmente resolvido com um Loop de qrcode.make(data) e data.save.
 
-image.png
+
 
 By: **sıɥɹƆ sıɥɹƆ**
